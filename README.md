@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/alkasima/alkasima/blob/main/giphy.gif" alt="Image" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="https://github.com/alkasima/alkasima/blob/main/giphy.gif" alt="Image" style="border-radius: 50%; width: 200px; height: 150px;">
 
   <br>
 <a href="https://www.linkedin.com/in/kasim-abubakar-jajere-b6651021" rel="nofollow">

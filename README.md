@@ -24,7 +24,7 @@ I am a FullStack Software Engineer  from Nigeria with over 5 years experience.
 <br>
 - 🔭 I’m currently working as FullStack Software Engineer at <a href="https://www.flashnetg.com">Flashnet</a>
   <p></p>
-- 💼 Worked as a Software Developer at <a href="https://www.hytek.ng">Hytek</a> Computer and contributed to Finance budget application.
+- 💼 Worked as a Software Developer at <a href="https://www.hytek.com.ng">Hytek</a> Computer and contributed to Finance budget application.
   <p></p>
 - 🧳 Worked as Backend Engineer for Raktech Group.
   <p></p>

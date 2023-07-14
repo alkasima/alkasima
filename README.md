@@ -12,7 +12,7 @@
 </div>    
 <p></p>
     
-### Hi, 👋 I'm Kasim Abubakar Jajere 
+### Hi👋, I'm Kasim Abubakar Jajere 
 
 <!--
 **alkasima/alkasima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
